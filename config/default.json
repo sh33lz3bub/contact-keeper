@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://shelby123:shelby123@contactkeeper.3egcp.mongodb.net/sample_airbnb?retryWrites=true&w=majority"
+}
